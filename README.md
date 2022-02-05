@@ -1,5 +1,5 @@
 # 5Feb22-SkillTank-EDC-BV-DU-COEP
-This is created for SkillTank-EDC-BV-DU-COEP
+This is created for SkillTank hosted by Entrepreneurship Development Cell of Bharati Vidyapeeth (Deemed to be) University, College of Engineering, Pune (EDC BV(DU)COEP). It is a  group that promotes the productive environment of Entrepreneurship and Innovation throughout the campus. EDC's prime motive is to invest its time and all the resources to create a better tomorrow with everyone working towards the betterment of our society.
 
 # Assignment
 ## Getting started
